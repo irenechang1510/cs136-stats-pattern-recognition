@@ -1,2 +1,2 @@
-# cs137-stats-pattern-recognition
-CS137 Projects Archive
+# cs136-stats-pattern-recognition
+CS136 Projects Archive
