@@ -13,6 +13,9 @@
 - What are the tradeoffs of using Metropolis sampling vs. Gibbs sampling? (runtime, implementation time, reliability, tunability, etc.)
 - How do we effectively implement MCMC methods in practice? (e.g. selecting hyperparameters, deciding how many samples to draw, etc.)
 
-[Coding Project 04]
+[Coding Project 04](cp4-gaussian-mixture-models): In this coding practical, we will compare 2 possible algorithms for learning the parameters (weights, means, and standard-deviations) of a Gaussian mixture model: LBFGS Gradient descent, Expectation Maximization. The problems below will try to address several key practical questions:
+- How sensitive are methods to initialization?
+- How can we effectively select the number of components?
+- What kind of structure can GMMs uncover within a dataset?
 
 [Coding Project 05]
