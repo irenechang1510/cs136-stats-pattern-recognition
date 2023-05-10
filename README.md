@@ -48,3 +48,7 @@
 - gain the experience of training RNN/Transformer models.
 
 Final Project: Apply LIRR (Learning Invariant Representation and Risks) on a mental workload classification task using fNIRS signal data [report](CS137_Report.pdf), [poster](debatingdenim_48x36.pdf)
+
+# CS15 - Data Structures
+
+All projects are included in [comp15.zip](comp15.zip)
