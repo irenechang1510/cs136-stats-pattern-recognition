@@ -7,4 +7,4 @@ Demo 1:
 - [Gradient Descent](GradientDescentDemo.ipynb)
 
 # MATH123 - Mathematical Aspect of Data Analysis
-- [Spectral Clustering](demo/Lecture_15_Spectral_Clustering_Demo.ipynb)
+- [Spectral Clustering](Lecture_15_Spectral_Clustering_Demo.ipynb)
