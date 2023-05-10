@@ -8,3 +8,6 @@ Demo 1:
 
 # MATH123 - Mathematical Aspect of Data Analysis
 - [Spectral Clustering](Lecture_15_Spectral_Clustering_Demo.ipynb)
+
+# Misc
+- [NLP workshop.ipynb](NLP workshop.ipynb)
