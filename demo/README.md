@@ -1,7 +1,10 @@
 # CS136 - Statistical Pattern Recognition
 Data Files:
-1. [salaryData.csv](salaryData.csv)
+- [salaryData.csv](salaryData.csv)
 
 Demo 1:
-1. [Basic Regression](BasicRegression.ipynb)
-2. [Gradient Descent](GradientDescentDemo.ipynb)
+- [Basic Regression](BasicRegression.ipynb)
+- [Gradient Descent](GradientDescentDemo.ipynb)
+
+# MATH123 - Mathematical Aspect of Data Analysis
+- [Spectral Clustering](Lecture_15_Spectral_CLustering_Demo.ipynb)
