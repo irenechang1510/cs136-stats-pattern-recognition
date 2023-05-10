@@ -33,3 +33,16 @@
 [HW6](cs119-hw/CS119-Quiz6.pdf): Data Streams (DStream), buy-sell stocks and bloom filter
 
 [HW7](cs119-hw/CS119-Quiz7.pdf): Processing text (Sentence Similarity, Frequent Itemset Mining, NTLK, LDA on clothing review)
+
+# CS137 - Deep Neural Networks
+
+[HW1](intro-pytorch): Introduction to pytorch
+
+[HW2](neural-network): Implement simple feed forward neural network with pytorch
+
+[HW3](cnn): Implement Convolutional Neural Network, bean classification task
+
+[HW4](rnn): 
+- learn the internal structure of vanilla RNNs and GRUs;
+- learn the internal structure of MHA;
+- gain the experience of training RNN/Transformer models.
