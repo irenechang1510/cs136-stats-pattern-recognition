@@ -10,4 +10,4 @@ Demo 1:
 - [Spectral Clustering](Lecture_15_Spectral_Clustering_Demo.ipynb)
 
 # Misc
-- [NLP workshop.ipynb](NLP workshop.ipynb)
+- [NLP workshop.ipynb](NLP_workshop.ipynb)
