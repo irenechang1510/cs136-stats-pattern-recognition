@@ -52,3 +52,11 @@ Final Project: Apply LIRR (Learning Invariant Representation and Risks) on a men
 # CS15 - Data Structures
 
 All projects are included in [comp15.zip](comp15.zip)
+
+# CS135 – Machine Learning and Data Mining
+
+Head over to the [repo](https://github.com/irenechang1510/comp135-machine-learning-projects) for this course!
+
+# CS152 – Visual Analytics
+
+Head over to the [repo](https://github.com/irenechang1510/intro-to-visual-analytics-cs152) for this course!
